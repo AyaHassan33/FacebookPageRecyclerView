@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Facebook_Page_RecycleView_By_Kotlin</string>
+    <string name="like">اعجبني</string>
+    <string name="comment">تعليق</string>
+    <string name="share">مشاركه</string>
+    <string name="public_post_type">عام</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="profile_image">صورة الشخصيه</string>
+    <string name="home">الرئيسيه</string>
+    <string name="posts">منشورات</string>
+    <string name="videos">فيديوهات</string>
+    <string name="photos">صور</string>
+</resources>

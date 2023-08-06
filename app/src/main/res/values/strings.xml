@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Facebook_Page_RecycleView_By_Kotlin</string>
+    <string name="text_post">Android is a mobile operating system developed by Google. It is used by several smartphones and tablets.</string>
+    <string name="text_link"><u>https://techterms.com/definition/android</u></string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="public_post_type">Public</string>
+    <string name="post_time">2 hrs .</string>
+    <string name="user_name">User Name</string>
+    <string name="profile_image">profile_image</string>
+    <string name="home">Home</string>
+    <string name="posts">Posts</string>
+    <string name="videos">Videos</string>
+    <string name="photos">Photos</string>
+    <string name="community">Community</string>
+    <string name="reaction">1.8k comments . 10 share</string>
+    <string name="_20">20k</string>
+    <string name="post_text_aya">Android is a mobile operating system developed by Google. It is used by several smartphones and tablets.</string>
+    <string name="fullstack_def">A full stack web developer is a person who can develop both client and server software. In addition to mastering HTML and CSS, he/she also knows how to: Program a browser (like using JavaScript, jQuery, Angular, or Vue) Program a server (like using PHP, ASP, Python, or Node)</string>
+    <string name="ios_def">iOS is a mobile operating system developed by Apple Inc. exclusively for its hardware. It is the operating system that powers many of the company\'s mobile devices, including the iPhone; the term also includes the system software for iPads predating iPadOS—which was introduced in 2019—as well as on the iPod Touch devices—which were discontinued in mid-2022.</string>
+    <string name="ai_def">Artificial intelligence (AI) is the intelligence of machines or softwares, as opposed to the intelligence of human beings or animals.</string>
+    <string name="ui_ux">UX design is all about identifying and solving user problems; UI design is all about creating intuitive, aesthetically-pleasing, interactive interfaces.</string>
+    <string name="java_def">Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.</string>
+
+</resources>
